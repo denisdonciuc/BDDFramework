@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-28T19:59:18Z" name="Default suite" finished-at="2019-12-28T20:00:10Z" duration-ms="51483">
+    <groups>
+    </groups>
+    <test started-at="2019-12-28T19:59:18Z" name="Default test" finished-at="2019-12-28T20:00:10Z" duration-ms="51483">
+      <class name="com.noorteck.qa.tests.TaskTestTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.noorteck.qa.tests.TaskTestTest@7d68ef40]" started-at="2019-12-28T19:59:18Z" name="setUp" finished-at="2019-12-28T19:59:22Z" duration-ms="3817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:com.noorteck.qa.tests.TaskTestTest@7d68ef40]" started-at="2019-12-28T19:59:22Z" name="test1" finished-at="2019-12-28T19:59:24Z" duration-ms="2487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noorteck.qa.tests.TaskTestTest@7d68ef40]" started-at="2019-12-28T19:59:24Z" name="tearDown" finished-at="2019-12-28T19:59:28Z" duration-ms="3110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.noorteck.qa.tests.TaskTestTest@7d68ef40]" started-at="2019-12-28T19:59:28Z" name="setUp" finished-at="2019-12-28T19:59:31Z" duration-ms="3008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2()[pri:0, instance:com.noorteck.qa.tests.TaskTestTest@7d68ef40]" started-at="2019-12-28T19:59:31Z" name="test2" finished-at="2019-12-28T19:59:56Z" duration-ms="25160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noorteck.qa.tests.TaskTestTest@7d68ef40]" started-at="2019-12-28T19:59:56Z" name="tearDown" finished-at="2019-12-28T19:59:59Z" duration-ms="3160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.noorteck.qa.tests.TaskTestTest@7d68ef40]" started-at="2019-12-28T19:59:59Z" name="setUp" finished-at="2019-12-28T20:00:02Z" duration-ms="2973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test3()[pri:0, instance:com.noorteck.qa.tests.TaskTestTest@7d68ef40]" started-at="2019-12-28T20:00:02Z" name="test3" finished-at="2019-12-28T20:00:06Z" duration-ms="4578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noorteck.qa.tests.TaskTestTest@7d68ef40]" started-at="2019-12-28T20:00:06Z" name="tearDown" finished-at="2019-12-28T20:00:10Z" duration-ms="3133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.noorteck.qa.tests.TaskTestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
